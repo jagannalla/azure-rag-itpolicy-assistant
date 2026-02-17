@@ -1,7 +1,9 @@
 python-dotenv 
+streamlit
+openai 
 azure-cli 
 azure-ai-documentintelligence 
-openai 
-streamlit
-azure-ai-documentintelligence 
 azure-storage-blob
+azure-search-documents
+tenacity 
+numpy
